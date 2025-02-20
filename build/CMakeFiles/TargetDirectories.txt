@@ -1,0 +1,3 @@
+C:/Users/Admin/Desktop/my cpp/p2.2/svg_project/build/CMakeFiles/svg_project.dir
+C:/Users/Admin/Desktop/my cpp/p2.2/svg_project/build/CMakeFiles/edit_cache.dir
+C:/Users/Admin/Desktop/my cpp/p2.2/svg_project/build/CMakeFiles/rebuild_cache.dir
